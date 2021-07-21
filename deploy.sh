@@ -9,7 +9,7 @@ export SES_TO=bharathp@cloudrural.com
 export SES_FROM=bharathp@cloudrural.com
 export SES_REGION=ap-south-1
 #Comma Seperated list of Cost Allocation Tags (must be configured in AWS billing prefs)
-export COST_TAGS=CreatedBy
+export COST_TAGS=
 #Do you want partial figures for the current month (set to true if running weekly/daily)
 export CURRENT_MONTH=false
 #Day of Month, leave as 6 unless you want to capture refunds and final support values, then change to 12
